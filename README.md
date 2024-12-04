@@ -1,6 +1,6 @@
 # Minha Jornada como Desenvolvedor 💻✨  
 
-Bom, deixa eu te contar como tudo começou. Minha história com o mundo da tecnologia é longa e cheia de altos e baixos. Quando eu tinha apenas 1 ano, meu padrasto, que já trabalhava na área, começou a me apresentar a esse universo. Ele me mostrou como um computador funcionava por dentro. Eu, com toda minha "normalidade", usava um HD como brinquedo. Pois é, desde cedo dava pra perceber que eu não era uma criança muito comum 😂.  
+Bom, deixa eu te contar como tudo começou. Minha história com o mundo da tecnologia é longa e cheia de altos e baixos. Quando eu tinha apenas 8 anos, meu padrasto, que já trabalhava na área, começou a me apresentar a esse universo. Ele me mostrou como um computador funcionava por dentro. Eu, com toda minha "normalidade", usava um HD como brinquedo. Pois é, desde cedo dava pra perceber que eu não era uma criança muito comum 😂.  
 
 Mas foi no ensino fundamental que tudo começou a fazer mais sentido. Foi quando eu descobri as **lan houses**! A cidade onde eu morava tinha uma só, e não era das melhores. Mas, cara, aqueles momentos foram mágicos. Eu guardava o dinheiro do lanche só pra passar o final de semana jogando horas a fio. Não eram só os jogos. Era a magia por trás deles que me fascinava. Por que o personagem se mexe daquele jeito? Como ele interage com o mundo ao redor? Essas perguntas me levaram a descobrir o **mundo da programação** e como era possível criar **universos inteiros** com código.  
 
