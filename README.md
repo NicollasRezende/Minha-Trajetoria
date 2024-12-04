@@ -56,4 +56,3 @@ Recentemente, também descobri algo importante sobre mim: sou autista. No iníci
 
 Essa foi minha trajetória até agora. Um pequeno dev autista, apaixonado pelo que faz e cheio de sonhos. Ainda não consegui um estágio ou emprego fixo na área, mas sei que meu momento vai chegar.  
 
-E você? Qual foi o maior desafio que enfrentou na sua carreira? 😊  
